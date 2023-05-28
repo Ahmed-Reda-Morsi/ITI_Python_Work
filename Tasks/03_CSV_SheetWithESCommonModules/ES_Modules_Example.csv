@@ -1,0 +1,10 @@
+Module Name,Description
+numpy,"a = np.array([1, 2, 3])
+print(a)"
+scipy,"from scipy import constants
+print(constants.pi)"
+pandas,"df = pd.DataFrame({'A': [1, 2], 'B': [3, 4]})
+print(df)"
+matplotlib,"import matplotlib.pyplot as plt
+plt.plot([1, 2, 3], [4, 5, 6])
+plt.show()"
